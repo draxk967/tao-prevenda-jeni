@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://t.me/vipjenii_bot",
+      "destination": "https://t.me/jenizinha69_bot",
       "permanent": false
     },
     {
       "source": "/vip",
-      "destination": "https://t.me/vipjenii_bot",
+      "destination": "https://t.me/jenizinha69_bot",
       "permanent": false
     }
   ]
